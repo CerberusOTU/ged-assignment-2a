@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35cad8cfb182fe44bbb8b32aeddfa656, type: 3}
+  m_Name: M1911
+  m_EditorClassIdentifier: 
+  name: M1911
+  className: Pistol
+  firerate: 0.25
+  bloom: 10
+  recoil: 2
+  maxRecoil_x: -10
+  recoilSpeed: 3
+  recoilDampen: 0
+  kickBack: 0.04
+  aimSpeed: 15
+  reloadTime: 1
+  maxAmmo: 15
+  currentAmmo: 15
+  isReloading: 0
+  obj: {fileID: 8082366030619503984, guid: 62800c2e78125e6489c058d984164ea8, type: 3}
