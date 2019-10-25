@@ -1,0 +1,8 @@
+﻿  PluginClass.cpp
+     Creating library D:\Game Development Year 3\002 Game Engine Design and Implementation\Assignments and Tutorials\ged-assignment-2a\PluginTest\Plugin\Release\Plugin.lib and object D:\Game Development Year 3\002 Game Engine Design and Implementation\Assignments and Tutorials\ged-assignment-2a\PluginTest\Plugin\Release\Plugin.exp
+  Generating code
+  0 of 4 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SimplePlugin.vcxproj -> D:\Game Development Year 3\002 Game Engine Design and Implementation\Assignments and Tutorials\ged-assignment-2a\PluginTest\Plugin\Release\Plugin.dll
